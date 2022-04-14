@@ -18,19 +18,27 @@ This page is written in Markdown, there is a handy guide on how to use this at t
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+Visual disturbances frollowing a brain injuiry are fairly common. They can present in anumber of ways including cognitive neglect and unilateral hemianopia, the focuses of this project. This project's mission statement is: 
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+“Create a “Virtual Reality”-based program to aid in the recovery and rehabilitation of brain injury victims suffering from cognitive visual disturbances, such as unilateral visuospatial neglect.”
+
+with the following targets: 
+
+•	To provide a safe and accessible VR rehabilitation program. 
+•	To modernise and gamify current rehabilitation exercises. 
+•	To deliver a polished and ready-for-market product. 
+•	To provide a single platform for multiple rehabilitation exercises to reduce workload on Occupational Therapists. 
+
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+A Functioning VR-based program was condstructed for the Oculus Quest 2 platform. This program was based upon current exercises and demands along with research previously conducted from institutions globally. Its modular design allows easy expansion and single point of use for multiple exercises. 
 
 ## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+![Main Menu](gsm1.jpg)
+Title Image.
 
+![The main Exercise - orbiting balls around dynmaically moving cubes to encourage peripheral scanning.](gsm2.jpg)
+The main Exercise.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+![Accessability Settings](gsm3.jpg)
+Accessability settings.
