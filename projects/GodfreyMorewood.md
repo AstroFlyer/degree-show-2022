@@ -3,7 +3,7 @@ layout: project
 studentName: "Godfrey Morewood"
 supervisorName: "Prof Annalu Waller"
 projectTitle: "Visual disturbance following brain injury"
-projectImage: "gsm2.jpg"
+projectImage: "gsm2.jpg.png"
 
 ---
 
@@ -34,11 +34,11 @@ with the following targets:
 A Functioning VR-based program was condstructed for the Oculus Quest 2 platform. This program was based upon current exercises and demands along with research previously conducted from institutions globally. Its modular design allows easy expansion and single point of use for multiple exercises. 
 
 ## Project Media
-![Main Menu](gsm1.jpg)
+![Main Menu](gsm1.jpg.png)
 Title Image.
 
-![The main Exercise - orbiting balls around dynmaically moving cubes to encourage peripheral scanning.](gsm2.jpg)
+![The main Exercise - orbiting balls around dynmaically moving cubes to encourage peripheral scanning.](gsm2.jpg.png)
 The main Exercise.
 
-![Accessability Settings](gsm3.jpg)
+![Accessability Settings](gsm3.jpg.png)
 Accessability settings.
