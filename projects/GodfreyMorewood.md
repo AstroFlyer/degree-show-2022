@@ -3,7 +3,7 @@ layout: project
 studentName: "Godfrey Morewood"
 supervisorName: "Prof Annalu Waller"
 projectTitle: "Visual disturbance following brain injury"
-projectImage: "sampleImage.jpg"
+projectImage: "gsm2.jpg"
 
 ---
 
